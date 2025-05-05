@@ -1,0 +1,245 @@
+name,population,region,subregion,capital,languages,currencies,flag
+Botswana,2351625,Africa,Southern Africa,Gaborone,"['English', 'Tswana']",['BWP'],https://flagcdn.com/w320/bw.png
+Tonga,105697,Oceania,Polynesia,Nuku'alofa,"['English', 'Tongan']",['TOP'],https://flagcdn.com/w320/to.png
+Greece,10715549,Europe,Southern Europe,Athens,['Greek'],['EUR'],https://flagcdn.com/w320/gr.png
+Marshall Islands,59194,Oceania,Micronesia,Majuro,"['English', 'Marshallese']",['USD'],https://flagcdn.com/w320/mh.png
+Belarus,9398861,Europe,Eastern Europe,Minsk,"['Belarusian', 'Russian']",['BYN'],https://flagcdn.com/w320/by.png
+Republic of the Congo,5657000,Africa,Middle Africa,Brazzaville,"['French', 'Kikongo', 'Lingala']",['XAF'],https://flagcdn.com/w320/cg.png
+Tanzania,59734213,Africa,Eastern Africa,Dodoma,"['English', 'Swahili']",['TZS'],https://flagcdn.com/w320/tz.png
+Liechtenstein,38137,Europe,Western Europe,Vaduz,['German'],['CHF'],https://flagcdn.com/w320/li.png
+Sint Maarten,40812,Americas,Caribbean,Philipsburg,"['English', 'French', 'Dutch']",['ANG'],https://flagcdn.com/w320/sx.png
+Bosnia and Herzegovina,3280815,Europe,Southeast Europe,Sarajevo,"['Bosnian', 'Croatian', 'Serbian']",['BAM'],https://flagcdn.com/w320/ba.png
+Bahrain,1701583,Asia,Western Asia,Manama,['Arabic'],['BHD'],https://flagcdn.com/w320/bh.png
+Kenya,53771300,Africa,Eastern Africa,Nairobi,"['English', 'Swahili']",['KES'],https://flagcdn.com/w320/ke.png
+Estonia,1331057,Europe,Northern Europe,Tallinn,['Estonian'],['EUR'],https://flagcdn.com/w320/ee.png
+Qatar,2881060,Asia,Western Asia,Doha,['Arabic'],['QAR'],https://flagcdn.com/w320/qa.png
+Poland,37950802,Europe,Central Europe,Warsaw,['Polish'],['PLN'],https://flagcdn.com/w320/pl.png
+Moldova,2617820,Europe,Eastern Europe,Chișinău,['Romanian'],['MDL'],https://flagcdn.com/w320/md.png
+Jordan,10203140,Asia,Western Asia,Amman,['Arabic'],['JOD'],https://flagcdn.com/w320/jo.png
+Tunisia,11818618,Africa,Northern Africa,Tunis,['Arabic'],['TND'],https://flagcdn.com/w320/tn.png
+Paraguay,7132530,Americas,South America,Asunción,"['Guaraní', 'Spanish']",['PYG'],https://flagcdn.com/w320/py.png
+Malaysia,32365998,Asia,South-Eastern Asia,Kuala Lumpur,"['English', 'Malay']",['MYR'],https://flagcdn.com/w320/my.png
+Cameroon,26545864,Africa,Middle Africa,Yaoundé,"['English', 'French']",['XAF'],https://flagcdn.com/w320/cm.png
+Solomon Islands,686878,Oceania,Melanesia,Honiara,['English'],['SBD'],https://flagcdn.com/w320/sb.png
+Mongolia,3278292,Asia,Eastern Asia,Ulan Bator,['Mongolian'],['MNT'],https://flagcdn.com/w320/mn.png
+Vanuatu,307150,Oceania,Melanesia,Port Vila,"['Bislama', 'English', 'French']",['VUV'],https://flagcdn.com/w320/vu.png
+Nepal,29136808,Asia,Southern Asia,Kathmandu,['Nepali'],['NPR'],https://flagcdn.com/w320/np.png
+Guam,168783,Oceania,Micronesia,Hagåtña,"['Chamorro', 'English', 'Spanish']",['USD'],https://flagcdn.com/w320/gu.png
+Lebanon,6825442,Asia,Western Asia,Beirut,"['Arabic', 'French']",['LBP'],https://flagcdn.com/w320/lb.png
+Ivory Coast,26378275,Africa,Western Africa,Yamoussoukro,['French'],['XOF'],https://flagcdn.com/w320/ci.png
+Ecuador,17643060,Americas,South America,Quito,['Spanish'],['USD'],https://flagcdn.com/w320/ec.png
+Palau,18092,Oceania,Micronesia,Ngerulmud,"['English', 'Palauan']",['USD'],https://flagcdn.com/w320/pw.png
+Kyrgyzstan,6591600,Asia,Central Asia,Bishkek,"['Kyrgyz', 'Russian']",['KGS'],https://flagcdn.com/w320/kg.png
+Egypt,102334403,Africa,Northern Africa,Cairo,['Arabic'],['EGP'],https://flagcdn.com/w320/eg.png
+North Korea,25778815,Asia,Eastern Asia,Pyongyang,['Korean'],['KPW'],https://flagcdn.com/w320/kp.png
+Senegal,16743930,Africa,Western Africa,Dakar,['French'],['XOF'],https://flagcdn.com/w320/sn.png
+British Virgin Islands,30237,Americas,Caribbean,Road Town,['English'],['USD'],https://flagcdn.com/w320/vg.png
+Costa Rica,5094114,Americas,Central America,San José,['Spanish'],['CRC'],https://flagcdn.com/w320/cr.png
+Guatemala,16858333,Americas,Central America,Guatemala City,['Spanish'],['GTQ'],https://flagcdn.com/w320/gt.png
+China,1402112000,Asia,Eastern Asia,Beijing,['Chinese'],['CNY'],https://flagcdn.com/w320/cn.png
+Kazakhstan,18754440,Asia,Central Asia,Astana,"['Kazakh', 'Russian']",['KZT'],https://flagcdn.com/w320/kz.png
+Cape Verde,555988,Africa,Western Africa,Praia,['Portuguese'],['CVE'],https://flagcdn.com/w320/cv.png
+Vatican City,451,Europe,Southern Europe,Vatican City,"['Italian', 'Latin']",['EUR'],https://flagcdn.com/w320/va.png
+Bhutan,771612,Asia,Southern Asia,Thimphu,['Dzongkha'],"['BTN', 'INR']",https://flagcdn.com/w320/bt.png
+Colombia,50882884,Americas,South America,Bogotá,['Spanish'],['COP'],https://flagcdn.com/w320/co.png
+Grenada,112519,Americas,Caribbean,St. George's,['English'],['XCD'],https://flagcdn.com/w320/gd.png
+Northern Mariana Islands,57557,Oceania,Micronesia,Saipan,"['Carolinian', 'Chamorro', 'English']",['USD'],https://flagcdn.com/w320/mp.png
+Papua New Guinea,8947027,Oceania,Melanesia,Port Moresby,"['English', 'Hiri Motu', 'Tok Pisin']",['PGK'],https://flagcdn.com/w320/pg.png
+South Africa,59308690,Africa,Southern Africa,Pretoria,"['Afrikaans', 'English', 'Southern Ndebele', 'Northern Sotho', 'Southern Sotho', 'Swazi', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zulu']",['ZAR'],https://flagcdn.com/w320/za.png
+Guinea,13132792,Africa,Western Africa,Conakry,['French'],['GNF'],https://flagcdn.com/w320/gn.png
+Hong Kong,7500700,Asia,Eastern Asia,City of Victoria,"['English', 'Chinese']",['HKD'],https://flagcdn.com/w320/hk.png
+Chad,16425859,Africa,Middle Africa,N'Djamena,"['Arabic', 'French']",['XAF'],https://flagcdn.com/w320/td.png
+"Saint Helena, Ascension and Tristan da Cunha",53192,Africa,Western Africa,Jamestown,['English'],"['GBP', 'SHP']",https://flagcdn.com/w320/sh.png
+Honduras,9904608,Americas,Central America,Tegucigalpa,['Spanish'],['HNL'],https://flagcdn.com/w320/hn.png
+Montenegro,621718,Europe,Southeast Europe,Podgorica,['Montenegrin'],['EUR'],https://flagcdn.com/w320/me.png
+Morocco,36910558,Africa,Northern Africa,Rabat,"['Arabic', 'Berber']",['MAD'],https://flagcdn.com/w320/ma.png
+Nicaragua,6624554,Americas,Central America,Managua,['Spanish'],['NIO'],https://flagcdn.com/w320/ni.png
+Cayman Islands,65720,Americas,Caribbean,George Town,['English'],['KYD'],https://flagcdn.com/w320/ky.png
+Luxembourg,632275,Europe,Western Europe,Luxembourg,"['German', 'French', 'Luxembourgish']",['EUR'],https://flagcdn.com/w320/lu.png
+Guyana,786559,Americas,South America,Georgetown,['English'],['GYD'],https://flagcdn.com/w320/gy.png
+Bulgaria,6927288,Europe,Southeast Europe,Sofia,['Bulgarian'],['BGN'],https://flagcdn.com/w320/bg.png
+Ghana,31072945,Africa,Western Africa,Accra,['English'],['GHS'],https://flagcdn.com/w320/gh.png
+Finland,5530719,Europe,Northern Europe,Helsinki,"['Finnish', 'Swedish']",['EUR'],https://flagcdn.com/w320/fi.png
+Seychelles,98462,Africa,Eastern Africa,Victoria,"['Seychellois Creole', 'English', 'French']",['SCR'],https://flagcdn.com/w320/sc.png
+United States Virgin Islands,106290,Americas,Caribbean,Charlotte Amalie,['English'],['USD'],https://flagcdn.com/w320/vi.png
+Ethiopia,114963583,Africa,Eastern Africa,Addis Ababa,['Amharic'],['ETB'],https://flagcdn.com/w320/et.png
+Mauritania,4649660,Africa,Western Africa,Nouakchott,['Arabic'],['MRU'],https://flagcdn.com/w320/mr.png
+Iceland,366425,Europe,Northern Europe,Reykjavik,['Icelandic'],['ISK'],https://flagcdn.com/w320/is.png
+Réunion,840974,Africa,Eastern Africa,Saint-Denis,['French'],['EUR'],https://flagcdn.com/w320/re.png
+Tajikistan,9537642,Asia,Central Asia,Dushanbe,"['Russian', 'Tajik']",['TJS'],https://flagcdn.com/w320/tj.png
+Cuba,11326616,Americas,Caribbean,Havana,['Spanish'],"['CUC', 'CUP']",https://flagcdn.com/w320/cu.png
+Somalia,15893219,Africa,Eastern Africa,Mogadishu,"['Arabic', 'Somali']",['SOS'],https://flagcdn.com/w320/so.png
+Switzerland,8654622,Europe,Western Europe,Bern,"['French', 'Swiss German', 'Italian', 'Romansh']",['CHF'],https://flagcdn.com/w320/ch.png
+Christmas Island,2072,Oceania,Australia and New Zealand,Flying Fish Cove,['English'],['AUD'],https://flagcdn.com/w320/cx.png
+Martinique,378243,Americas,Caribbean,Fort-de-France,['French'],['EUR'],https://flagcdn.com/w320/mq.png
+Australia,25687041,Oceania,Australia and New Zealand,Canberra,['English'],['AUD'],https://flagcdn.com/w320/au.png
+Benin,12123198,Africa,Western Africa,Porto-Novo,['French'],['XOF'],https://flagcdn.com/w320/bj.png
+Laos,7275556,Asia,South-Eastern Asia,Vientiane,['Lao'],['LAK'],https://flagcdn.com/w320/la.png
+Sudan,43849269,Africa,Northern Africa,Khartoum,"['Arabic', 'English']",['SDG'],https://flagcdn.com/w320/sd.png
+Libya,6871287,Africa,Northern Africa,Tripoli,['Arabic'],['LYD'],https://flagcdn.com/w320/ly.png
+Mali,20250834,Africa,Western Africa,Bamako,['French'],['XOF'],https://flagcdn.com/w320/ml.png
+Peru,32971846,Americas,South America,Lima,"['Aymara', 'Quechua', 'Spanish']",['PEN'],https://flagcdn.com/w320/pe.png
+Hungary,9749763,Europe,Central Europe,Budapest,['Hungarian'],['HUF'],https://flagcdn.com/w320/hu.png
+Bermuda,63903,Americas,North America,Hamilton,['English'],['BMD'],https://flagcdn.com/w320/bm.png
+Fiji,896444,Oceania,Melanesia,Suva,"['English', 'Fijian', 'Fiji Hindi']",['FJD'],https://flagcdn.com/w320/fj.png
+Netherlands,16655799,Europe,Western Europe,Amsterdam,['Dutch'],['EUR'],https://flagcdn.com/w320/nl.png
+Nigeria,206139587,Africa,Western Africa,Abuja,['English'],['NGN'],https://flagcdn.com/w320/ng.png
+Portugal,10305564,Europe,Southern Europe,Lisbon,['Portuguese'],['EUR'],https://flagcdn.com/w320/pt.png
+India,1380004385,Asia,Southern Asia,New Delhi,"['English', 'Hindi', 'Tamil']",['INR'],https://flagcdn.com/w320/in.png
+Lesotho,2142252,Africa,Southern Africa,Maseru,"['English', 'Sotho']","['LSL', 'ZAR']",https://flagcdn.com/w320/ls.png
+Zambia,18383956,Africa,Eastern Africa,Lusaka,['English'],['ZMW'],https://flagcdn.com/w320/zm.png
+Tokelau,1411,Oceania,Polynesia,Fakaofo,"['English', 'Samoan', 'Tokelauan']",['NZD'],https://flagcdn.com/w320/tk.png
+Gambia,2416664,Africa,Western Africa,Banjul,['English'],['GMD'],https://flagcdn.com/w320/gm.png
+Sierra Leone,7976985,Africa,Western Africa,Freetown,['English'],['SLE'],https://flagcdn.com/w320/sl.png
+Kiribati,119446,Oceania,Micronesia,South Tarawa,"['English', 'Gilbertese']","['AUD', 'KID']",https://flagcdn.com/w320/ki.png
+Norway,5379475,Europe,Northern Europe,Oslo,"['Norwegian Nynorsk', 'Norwegian Bokmål', 'Sami']",['NOK'],https://flagcdn.com/w320/no.png
+Ireland,4994724,Europe,Northern Europe,Dublin,"['English', 'Irish']",['EUR'],https://flagcdn.com/w320/ie.png
+Greenland,56367,Americas,North America,Nuuk,['Greenlandic'],['DKK'],https://flagcdn.com/w320/gl.png
+British Indian Ocean Territory,3000,Africa,Eastern Africa,Diego Garcia,['English'],['USD'],https://flagcdn.com/w320/io.png
+Mozambique,31255435,Africa,Eastern Africa,Maputo,['Portuguese'],['MZN'],https://flagcdn.com/w320/mz.png
+Panama,4314768,Americas,Central America,Panama City,['Spanish'],"['PAB', 'USD']",https://flagcdn.com/w320/pa.png
+Ukraine,44134693,Europe,Eastern Europe,Kyiv,['Ukrainian'],['UAH'],https://flagcdn.com/w320/ua.png
+Uruguay,3473727,Americas,South America,Montevideo,['Spanish'],['UYU'],https://flagcdn.com/w320/uy.png
+Aruba,106766,Americas,Caribbean,Oranjestad,"['Dutch', 'Papiamento']",['AWG'],https://flagcdn.com/w320/aw.png
+Iran,83992953,Asia,Southern Asia,Tehran,['Persian (Farsi)'],['IRR'],https://flagcdn.com/w320/ir.png
+Isle of Man,85032,Europe,Northern Europe,Douglas,"['English', 'Manx']","['GBP', 'IMP']",https://flagcdn.com/w320/im.png
+Åland Islands,29458,Europe,Northern Europe,Mariehamn,['Swedish'],['EUR'],https://flagcdn.com/w320/ax.png
+Saudi Arabia,34813867,Asia,Western Asia,Riyadh,['Arabic'],['SAR'],https://flagcdn.com/w320/sa.png
+Djibouti,988002,Africa,Eastern Africa,Djibouti,"['Arabic', 'French']",['DJF'],https://flagcdn.com/w320/dj.png
+Italy,59554023,Europe,Southern Europe,Rome,"['Italian', 'Catalan']",['EUR'],https://flagcdn.com/w320/it.png
+Canada,38005238,Americas,North America,Ottawa,"['English', 'French']",['CAD'],https://flagcdn.com/w320/ca.png
+Jamaica,2961161,Americas,Caribbean,Kingston,"['English', 'Jamaican Patois']",['JMD'],https://flagcdn.com/w320/jm.png
+Niger,24206636,Africa,Western Africa,Niamey,['French'],['XOF'],https://flagcdn.com/w320/ne.png
+Afghanistan,40218234,Asia,Southern Asia,Kabul,"['Dari', 'Pashto', 'Turkmen']",['AFN'],https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+Croatia,4047200,Europe,Southeast Europe,Zagreb,['Croatian'],['EUR'],https://flagcdn.com/w320/hr.png
+Latvia,1901548,Europe,Northern Europe,Riga,['Latvian'],['EUR'],https://flagcdn.com/w320/lv.png
+Samoa,198410,Oceania,Polynesia,Apia,"['English', 'Samoan']",['WST'],https://flagcdn.com/w320/ws.png
+Curaçao,155014,Americas,Caribbean,Willemstad,"['English', 'Dutch', 'Papiamento']",['ANG'],https://flagcdn.com/w320/cw.png
+Cyprus,1207361,Europe,Southern Europe,Nicosia,"['Greek', 'Turkish']",['EUR'],https://flagcdn.com/w320/cy.png
+Madagascar,27691019,Africa,Eastern Africa,Antananarivo,"['French', 'Malagasy']",['MGA'],https://flagcdn.com/w320/mg.png
+Uzbekistan,34232050,Asia,Central Asia,Tashkent,"['Russian', 'Uzbek']",['UZS'],https://flagcdn.com/w320/uz.png
+Micronesia,115021,Oceania,Micronesia,Palikir,['English'],['USD'],https://flagcdn.com/w320/fm.png
+Maldives,540542,Asia,Southern Asia,Malé,['Maldivian'],['MVR'],https://flagcdn.com/w320/mv.png
+Slovenia,2100126,Europe,Central Europe,Ljubljana,['Slovene'],['EUR'],https://flagcdn.com/w320/si.png
+Andorra,77265,Europe,Southern Europe,Andorra la Vella,['Catalan'],['EUR'],https://flagcdn.com/w320/ad.png
+Eritrea,5352000,Africa,Eastern Africa,Asmara,"['Arabic', 'English', 'Tigrinya']",['ERN'],https://flagcdn.com/w320/er.png
+Guinea-Bissau,1967998,Africa,Western Africa,Bissau,"['Portuguese', 'Upper Guinea Creole']",['XOF'],https://flagcdn.com/w320/gw.png
+Kuwait,4270563,Asia,Western Asia,Kuwait City,['Arabic'],['KWD'],https://flagcdn.com/w320/kw.png
+Gabon,2225728,Africa,Middle Africa,Libreville,['French'],['XAF'],https://flagcdn.com/w320/ga.png
+Yemen,29825968,Asia,Western Asia,Sana'a,['Arabic'],['YER'],https://flagcdn.com/w320/ye.png
+Cocos (Keeling) Islands,544,Oceania,Australia and New Zealand,West Island,['English'],['AUD'],https://flagcdn.com/w320/cc.png
+Timor-Leste,1318442,Asia,South-Eastern Asia,Dili,"['Portuguese', 'Tetum']",['USD'],https://flagcdn.com/w320/tl.png
+Slovakia,5458827,Europe,Central Europe,Bratislava,['Slovak'],['EUR'],https://flagcdn.com/w320/sk.png
+Rwanda,12952209,Africa,Eastern Africa,Kigali,"['English', 'French', 'Kinyarwanda']",['RWF'],https://flagcdn.com/w320/rw.png
+Antigua and Barbuda,97928,Americas,Caribbean,Saint John's,['English'],['XCD'],https://flagcdn.com/w320/ag.png
+Togo,8278737,Africa,Western Africa,Lomé,['French'],['XOF'],https://flagcdn.com/w320/tg.png
+Syria,17500657,Asia,Western Asia,Damascus,['Arabic'],['SYP'],https://flagcdn.com/w320/sy.png
+Guadeloupe,400132,Americas,Caribbean,Basse-Terre,['French'],['EUR'],https://flagcdn.com/w320/gp.png
+Turkmenistan,6031187,Asia,Central Asia,Ashgabat,"['Russian', 'Turkmen']",['TMT'],https://flagcdn.com/w320/tm.png
+Sri Lanka,21919000,Asia,Southern Asia,Sri Jayawardenepura Kotte,"['Sinhala', 'Tamil']",['LKR'],https://flagcdn.com/w320/lk.png
+United States,329484123,Americas,North America,"Washington, D.C.",['English'],['USD'],https://flagcdn.com/w320/us.png
+Argentina,45376763,Americas,South America,Buenos Aires,"['Guaraní', 'Spanish']",['ARS'],https://flagcdn.com/w320/ar.png
+South Sudan,11193729,Africa,Middle Africa,Juba,['English'],['SSP'],https://flagcdn.com/w320/ss.png
+Palestine,4803269,Asia,Western Asia,Ramallah,['Arabic'],"['EGP', 'ILS', 'JOD']",https://flagcdn.com/w320/ps.png
+Georgia,3714000,Asia,Western Asia,Tbilisi,['Georgian'],['GEL'],https://flagcdn.com/w320/ge.png
+Japan,125836021,Asia,Eastern Asia,Tokyo,['Japanese'],['JPY'],https://flagcdn.com/w320/jp.png
+Sweden,10353442,Europe,Northern Europe,Stockholm,['Swedish'],['SEK'],https://flagcdn.com/w320/se.png
+Chile,19116209,Americas,South America,Santiago,['Spanish'],['CLP'],https://flagcdn.com/w320/cl.png
+Saint Kitts and Nevis,53192,Americas,Caribbean,Basseterre,['English'],['XCD'],https://flagcdn.com/w320/kn.png
+Denmark,5831404,Europe,Northern Europe,Copenhagen,['Danish'],['DKK'],https://flagcdn.com/w320/dk.png
+United States Minor Outlying Islands,300,Americas,North America,Washington DC,['English'],['USD'],https://flagcdn.com/w320/um.png
+American Samoa,55197,Oceania,Polynesia,Pago Pago,"['English', 'Samoan']",['USD'],https://flagcdn.com/w320/as.png
+Anguilla,13452,Americas,Caribbean,The Valley,['English'],['XCD'],https://flagcdn.com/w320/ai.png
+Philippines,109581085,Asia,South-Eastern Asia,Manila,"['English', 'Filipino']",['PHP'],https://flagcdn.com/w320/ph.png
+Bolivia,11673029,Americas,South America,Sucre,"['Aymara', 'Guaraní', 'Quechua', 'Spanish']",['BOB'],https://flagcdn.com/w320/bo.png
+São Tomé and Príncipe,219161,Africa,Middle Africa,São Tomé,['Portuguese'],['STN'],https://flagcdn.com/w320/st.png
+Montserrat,4922,Americas,Caribbean,Plymouth,['English'],['XCD'],https://flagcdn.com/w320/ms.png
+Myanmar,54409794,Asia,South-Eastern Asia,Naypyidaw,['Burmese'],['MMK'],https://flagcdn.com/w320/mm.png
+Niue,1470,Oceania,Polynesia,Alofi,"['English', 'Niuean']",['NZD'],https://flagcdn.com/w320/nu.png
+Israel,9216900,Asia,Western Asia,Jerusalem,"['Arabic', 'Hebrew']",['ILS'],https://flagcdn.com/w320/il.png
+Comoros,869595,Africa,Eastern Africa,Moroni,"['Arabic', 'French', 'Comorian']",['KMF'],https://flagcdn.com/w320/km.png
+Saint Vincent and the Grenadines,110947,Americas,Caribbean,Kingstown,['English'],['XCD'],https://flagcdn.com/w320/vc.png
+Vietnam,97338583,Asia,South-Eastern Asia,Hanoi,['Vietnamese'],['VND'],https://flagcdn.com/w320/vn.png
+Caribbean Netherlands,25987,Americas,Caribbean,Kralendijk,"['English', 'Dutch', 'Papiamento']",['USD'],https://flagcdn.com/w320/bq.png
+Jersey,100800,Europe,Northern Europe,Saint Helier,"['English', 'French', 'Jèrriais']","['GBP', 'JEP']",https://flagcdn.com/w320/je.png
+Falkland Islands,2563,Americas,South America,Stanley,['English'],['FKP'],https://flagcdn.com/w320/fk.png
+Armenia,2963234,Asia,Western Asia,Yerevan,['Armenian'],['AMD'],https://flagcdn.com/w320/am.png
+Kosovo,1775378,Europe,Southeast Europe,Pristina,"['Albanian', 'Serbian']",['EUR'],https://flagcdn.com/w320/xk.png
+Venezuela,28435943,Americas,South America,Caracas,['Spanish'],['VES'],https://flagcdn.com/w320/ve.png
+Belgium,11555997,Europe,Western Europe,Brussels,"['German', 'French', 'Dutch']",['EUR'],https://flagcdn.com/w320/be.png
+Burkina Faso,20903278,Africa,Western Africa,Ouagadougou,['French'],['XOF'],https://flagcdn.com/w320/bf.png
+Algeria,44700000,Africa,Northern Africa,Algiers,['Arabic'],['DZD'],https://flagcdn.com/w320/dz.png
+France,67391582,Europe,Western Europe,Paris,['French'],['EUR'],https://flagcdn.com/w320/fr.png
+Saint Pierre and Miquelon,6069,Americas,North America,Saint-Pierre,['French'],['EUR'],https://flagcdn.com/w320/pm.png
+Pakistan,220892331,Asia,Southern Asia,Islamabad,"['English', 'Urdu']",['PKR'],https://flagcdn.com/w320/pk.png
+El Salvador,6486201,Americas,Central America,San Salvador,['Spanish'],['USD'],https://flagcdn.com/w320/sv.png
+North Macedonia,2077132,Europe,Southeast Europe,Skopje,['Macedonian'],['MKD'],https://flagcdn.com/w320/mk.png
+Brunei,437483,Asia,South-Eastern Asia,Bandar Seri Begawan,['Malay'],"['BND', 'SGD']",https://flagcdn.com/w320/bn.png
+Central African Republic,4829764,Africa,Middle Africa,Bangui,"['French', 'Sango']",['XAF'],https://flagcdn.com/w320/cf.png
+Uganda,45741000,Africa,Eastern Africa,Kampala,"['English', 'Swahili']",['UGX'],https://flagcdn.com/w320/ug.png
+Wallis and Futuna,11750,Oceania,Polynesia,Mata-Utu,['French'],['XPF'],https://flagcdn.com/w320/wf.png
+Germany,83240525,Europe,Western Europe,Berlin,['German'],['EUR'],https://flagcdn.com/w320/de.png
+Taiwan,23503349,Asia,Eastern Asia,Taipei,['Chinese'],['TWD'],https://flagcdn.com/w320/tw.png
+United Arab Emirates,9890400,Asia,Western Asia,Abu Dhabi,['Arabic'],['AED'],https://flagcdn.com/w320/ae.png
+Namibia,2540916,Africa,Southern Africa,Windhoek,"['Afrikaans', 'German', 'English', 'Herero', 'Khoekhoe', 'Kwangali', 'Lozi', 'Ndonga', 'Tswana']","['NAD', 'ZAR']",https://flagcdn.com/w320/na.png
+Monaco,39244,Europe,Western Europe,Monaco,['French'],['EUR'],https://flagcdn.com/w320/mc.png
+Malawi,19129955,Africa,Eastern Africa,Lilongwe,"['English', 'Chewa']",['MWK'],https://flagcdn.com/w320/mw.png
+Azerbaijan,10110116,Asia,Western Asia,Baku,['Azerbaijani'],['AZN'],https://flagcdn.com/w320/az.png
+Mexico,128932753,Americas,North America,Mexico City,['Spanish'],['MXN'],https://flagcdn.com/w320/mx.png
+Iraq,40222503,Asia,Western Asia,Baghdad,"['Arabic', 'Aramaic', 'Sorani']",['IQD'],https://flagcdn.com/w320/iq.png
+Cambodia,16718971,Asia,South-Eastern Asia,Phnom Penh,['Khmer'],"['KHR', 'USD']",https://flagcdn.com/w320/kh.png
+Tuvalu,11792,Oceania,Polynesia,Funafuti,"['English', 'Tuvaluan']","['AUD', 'TVD']",https://flagcdn.com/w320/tv.png
+Cook Islands,18100,Oceania,Polynesia,Avarua,"['English', 'Cook Islands Māori']","['CKD', 'NZD']",https://flagcdn.com/w320/ck.png
+Haiti,11402533,Americas,Caribbean,Port-au-Prince,"['French', 'Haitian Creole']",['HTG'],https://flagcdn.com/w320/ht.png
+Belize,397621,Americas,Central America,Belmopan,"['Belizean Creole', 'English', 'Spanish']",['BZD'],https://flagcdn.com/w320/bz.png
+French Guiana,254541,Americas,South America,Cayenne,['French'],['EUR'],https://flagcdn.com/w320/gf.png
+DR Congo,108407721,Africa,Middle Africa,Kinshasa,"['French', 'Kikongo', 'Lingala', 'Tshiluba', 'Swahili']",['CDF'],https://flagcdn.com/w320/cd.png
+Equatorial Guinea,1402985,Africa,Middle Africa,Malabo,"['French', 'Portuguese', 'Spanish']",['XAF'],https://flagcdn.com/w320/gq.png
+Mauritius,1265740,Africa,Eastern Africa,Port Louis,"['English', 'French', 'Mauritian Creole']",['MUR'],https://flagcdn.com/w320/mu.png
+Austria,8917205,Europe,Central Europe,Vienna,['German'],['EUR'],https://flagcdn.com/w320/at.png
+Spain,47351567,Europe,Southern Europe,Madrid,"['Spanish', 'Catalan', 'Basque', 'Galician']",['EUR'],https://flagcdn.com/w320/es.png
+Russia,144104080,Europe,Eastern Europe,Moscow,['Russian'],['RUB'],https://flagcdn.com/w320/ru.png
+Zimbabwe,14862927,Africa,Southern Africa,Harare,"['Chibarwe', 'English', 'Kalanga', 'Khoisan', 'Ndau', 'Northern Ndebele', 'Chewa', 'Shona', 'Sotho', 'Tonga', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zimbabwean Sign Language']",['ZWL'],https://flagcdn.com/w320/zw.png
+Singapore,5685807,Asia,South-Eastern Asia,Singapore,"['English', 'Chinese', 'Malay', 'Tamil']",['SGD'],https://flagcdn.com/w320/sg.png
+Czechia,10698896,Europe,Central Europe,Prague,"['Czech', 'Slovak']",['CZK'],https://flagcdn.com/w320/cz.png
+Faroe Islands,48865,Europe,Northern Europe,Tórshavn,"['Danish', 'Faroese']","['DKK', 'FOK']",https://flagcdn.com/w320/fo.png
+Oman,5106622,Asia,Western Asia,Muscat,['Arabic'],['OMR'],https://flagcdn.com/w320/om.png
+Burundi,11890781,Africa,Eastern Africa,Gitega,"['French', 'Kirundi']",['BIF'],https://flagcdn.com/w320/bi.png
+Western Sahara,510713,Africa,Northern Africa,El Aaiún,"['Berber', 'Hassaniya', 'Spanish']","['DZD', 'MAD', 'MRU']",https://flagcdn.com/w320/eh.png
+Mayotte,226915,Africa,Eastern Africa,Mamoudzou,['French'],['EUR'],https://flagcdn.com/w320/yt.png
+Puerto Rico,3194034,Americas,Caribbean,San Juan,"['English', 'Spanish']",['USD'],https://flagcdn.com/w320/pr.png
+San Marino,33938,Europe,Southern Europe,City of San Marino,['Italian'],['EUR'],https://flagcdn.com/w320/sm.png
+Turks and Caicos Islands,38718,Americas,Caribbean,Cockburn Town,['English'],['USD'],https://flagcdn.com/w320/tc.png
+Malta,525285,Europe,Southern Europe,Valletta,"['English', 'Maltese']",['EUR'],https://flagcdn.com/w320/mt.png
+Nauru,10834,Oceania,Micronesia,Yaren,"['English', 'Nauru']",['AUD'],https://flagcdn.com/w320/nr.png
+Saint Martin,38659,Americas,Caribbean,Marigot,['French'],['EUR'],https://flagcdn.com/w320/mf.png
+French Polynesia,280904,Oceania,Polynesia,Papeetē,['French'],['XPF'],https://flagcdn.com/w320/pf.png
+New Zealand,5084300,Oceania,Australia and New Zealand,Wellington,"['English', 'Māori', 'New Zealand Sign Language']",['NZD'],https://flagcdn.com/w320/nz.png
+Serbia,6908224,Europe,Southeast Europe,Belgrade,['Serbian'],['RSD'],https://flagcdn.com/w320/rs.png
+Trinidad and Tobago,1399491,Americas,Caribbean,Port of Spain,['English'],['TTD'],https://flagcdn.com/w320/tt.png
+Saint Barthélemy,4255,Americas,Caribbean,Gustavia,['French'],['EUR'],https://flagcdn.com/w320/bl.png
+Pitcairn Islands,56,Oceania,Polynesia,Adamstown,['English'],['NZD'],https://flagcdn.com/w320/pn.png
+Norfolk Island,2302,Oceania,Australia and New Zealand,Kingston,"['English', 'Norfuk']",['AUD'],https://flagcdn.com/w320/nf.png
+Barbados,287371,Americas,Caribbean,Bridgetown,['English'],['BBD'],https://flagcdn.com/w320/bb.png
+South Korea,51780579,Asia,Eastern Asia,Seoul,['Korean'],['KRW'],https://flagcdn.com/w320/kr.png
+Bangladesh,164689383,Asia,Southern Asia,Dhaka,['Bengali'],['BDT'],https://flagcdn.com/w320/bd.png
+Dominican Republic,10847904,Americas,Caribbean,Santo Domingo,['Spanish'],['DOP'],https://flagcdn.com/w320/do.png
+Turkey,84339067,Asia,Western Asia,Ankara,['Turkish'],['TRY'],https://flagcdn.com/w320/tr.png
+Indonesia,273523621,Asia,South-Eastern Asia,Nusantara,['Indonesian'],['IDR'],https://flagcdn.com/w320/id.png
+Liberia,5057677,Africa,Western Africa,Monrovia,['English'],['LRD'],https://flagcdn.com/w320/lr.png
+Guernsey,62999,Europe,Northern Europe,St. Peter Port,"['English', 'French', 'Guernésiais']","['GBP', 'GGP']",https://flagcdn.com/w320/gg.png
+Suriname,586634,Americas,South America,Paramaribo,['Dutch'],['SRD'],https://flagcdn.com/w320/sr.png
+Albania,2837743,Europe,Southeast Europe,Tirana,['Albanian'],['ALL'],https://flagcdn.com/w320/al.png
+Dominica,71991,Americas,Caribbean,Roseau,['English'],['XCD'],https://flagcdn.com/w320/dm.png
+Thailand,69799978,Asia,South-Eastern Asia,Bangkok,['Thai'],['THB'],https://flagcdn.com/w320/th.png
+United Kingdom,67215293,Europe,Northern Europe,London,['English'],['GBP'],https://flagcdn.com/w320/gb.png
+New Caledonia,271960,Oceania,Melanesia,Nouméa,['French'],['XPF'],https://flagcdn.com/w320/nc.png
+Romania,19286123,Europe,Southeast Europe,Bucharest,['Romanian'],['RON'],https://flagcdn.com/w320/ro.png
+Gibraltar,33691,Europe,Southern Europe,Gibraltar,['English'],['GIP'],https://flagcdn.com/w320/gi.png
+Svalbard and Jan Mayen,2562,Europe,Northern Europe,Longyearbyen,['Norwegian'],['NOK'],https://flagcdn.com/w320/sj.png
+Angola,32866268,Africa,Middle Africa,Luanda,['Portuguese'],['AOA'],https://flagcdn.com/w320/ao.png
+Bahamas,393248,Americas,Caribbean,Nassau,['English'],"['BSD', 'USD']",https://flagcdn.com/w320/bs.png
+Eswatini,1160164,Africa,Southern Africa,Mbabane,"['English', 'Swazi']","['SZL', 'ZAR']",https://flagcdn.com/w320/sz.png
+Brazil,212559409,Americas,South America,Brasília,['Portuguese'],['BRL'],https://flagcdn.com/w320/br.png
+Lithuania,2794700,Europe,Northern Europe,Vilnius,['Lithuanian'],['EUR'],https://flagcdn.com/w320/lt.png
+Saint Lucia,183629,Americas,Caribbean,Castries,['English'],['XCD'],https://flagcdn.com/w320/lc.png
