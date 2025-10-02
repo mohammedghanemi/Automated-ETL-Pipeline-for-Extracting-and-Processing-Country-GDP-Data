@@ -28,17 +28,6 @@ The project is developed as part of a junior Data Engineer assignment, using **P
 
 ---
 
-## Project Structure
-ETL_Project:_Countries_by_GDP_Extraction_and_Database_Loading/
-│
-├── etl_project_gdp.py          # Main Python ETL script
-├── Countries_by_GDP.json       # Output JSON file
-├── World_Economies.db          # SQLite database file
-├── etl_project_log.txt         # Log file for ETL execution
-└── README.md                   # Project documentation
-
----
-
 ## How It Works
 
 ### 1. Extraction
