@@ -29,3 +29,46 @@ The project is developed as part of a junior Data Engineer assignment, using **P
 ---
 
 ## Project Structure
+ETL_Project:_Countries_by_GDP_Extraction_and_Database_Loading/
+│
+├── etl_project_gdp.py          # Main Python ETL script
+├── Countries_by_GDP.json       # Output JSON file
+├── World_Economies.db          # SQLite database file
+├── etl_project_log.txt         # Log file for ETL execution
+└── README.md                   # Project documentation
+
+---
+
+## How It Works
+
+### 1. Extraction
+- The script fetches the GDP table from the IMF website.
+- Parses HTML using **BeautifulSoup**.
+- Extracts country names and GDP values into a Python list of dictionaries.
+
+### 2. Transformation
+- GDP values are converted to floats and **rounded to 2 decimal places**.
+- Country names are cleaned for consistent formatting.
+- Data is optionally sorted by GDP.
+
+### 3. Loading
+- The transformed data is saved in two formats:
+  - **JSON file:** `Countries_by_GDP.json`
+  - **SQLite table:** `Countries_by_GDP` in `World_Economies.db`
+- SQL table has columns:
+  - `Country` (TEXT)
+  - `GDP_USD_billion` (REAL)
+
+### 4. Logging
+- All ETL steps are logged in `etl_project_log.txt` with **timestamped messages**.
+
+---
+## Tools and Libraries Used
+
+- Python 3.11 – programming language.
+- requests – fetch data from web.
+- BeautifulSoup4 – parse HTML content.
+- pandas – optional, for tabular data handling.
+- sqlite3 – database management.
+- json – save data as JSON.
+- datetime – timestamp logging.
