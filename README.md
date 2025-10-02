@@ -1,43 +1,31 @@
-# Global-Country-Intelligence-Dashboard
+# ETL Project: Countries by GDP Extraction and Database Loading
 
-This project aims to collect and process global country information using a public API, followed by cleaning and transforming the data to prepare it for further use. The primary goal is to gather data on various aspects of countries such as population, languages, currencies, and more, then clean and transform this data to make it usable for analytical or database purposes.
+## Project Overview
+This project implements a **complete ETL (Extract, Transform, Load) pipeline** to automatically extract, process, and store GDP data of countries from the International Monetary Fund (IMF) website. The pipeline is designed for automation, enabling the organization to update GDP data twice a year as published by IMF.
 
-## Overview
+The project is developed as part of a junior Data Engineer assignment, using **Python** and relevant data processing libraries.
 
-### 1. **Data Collection**
+---
 
-The data is collected using the **RESTCountries API**, a free API that provides comprehensive information about all countries. This API includes details such as:
+## Project Objectives
+- Extract country-wise GDP data from IMF website.
+- Transform the data to clean it and round GDP values to **2 decimal places**.
+- Load the transformed data into:
+  - A **JSON file** (`Countries_by_GDP.json`)
+  - A **SQLite database** table (`Countries_by_GDP`) in `World_Economies.db`
+- Log the entire ETL process in `etl_project_log.txt`.
+- Demonstrate querying the database for countries with **GDP greater than 100 billion USD**.
 
-- Country name
-- Population
-- Languages
-- Currencies
-- Region and subregion
-- Flag images
+---
 
-No authentication or API keys are required to access the RESTCountries API, making it easy to collect data from all countries worldwide.
+## Features
+- Web scraping using `requests` and `BeautifulSoup`.
+- Data cleaning and transformation using Python built-in functions.
+- JSON and SQLite database integration.
+- Logging of ETL steps with timestamps.
+- Ability to automate updates when IMF releases new data.
+- Demonstration query to filter high GDP countries.
 
-### 2. **Data Cleaning & Transformation**
+---
 
-Once the data is collected, it's processed using **Python** and the **Pandas** library. This step involves:
-
-- **Cleaning the Data**:
-  - Removing or handling missing values.
-  - Ensuring consistency and correcting any anomalies in the data.
-
-- **Data Transformation**:
-  - Converting categorical data into a usable format.
-  - Ensuring that all values are in the correct units or formats (e.g., transforming population data to integers, fixing date formats).
-
-- **Preparation for Database Insertion**:
-  - The transformed data is saved as a `.csv` file and prepared for storage in a relational database, making it ready for use in further analysis.
-
-### Final Output
-
-After the cleaning and transformation steps, the final dataset is saved as `countries_cleaned.csv`.
-
-## Files Included:
-
-- **countries_raw.csv**: Contains the initial data collected from the RESTCountries API.
-- **countries_cleaned.csv**: The cleaned and transformed data ready for storage or further analysis.
-- **data_colle_clean_transfo.ipynb**: Jupyter notebook that includes the code for data collection, cleaning, and transformation.
+## Project Structure
